@@ -13,3 +13,5 @@ My name is Larissa Rodrigues, a passionate software developer currently contribu
 I thrive on challenges and continuously seek opportunities to expand my knowledge and contribute to innovative projects. My core values are centered around collaboration, commitment, creativity, and relentless pursuit of learning.
 
 Let's connect and build something amazing together! 🚀
+
+![My stats](https://github-readme-stats.vercel.app/api?username=imlari&show_icons=true&theme=radical)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlari&layout=compact)
